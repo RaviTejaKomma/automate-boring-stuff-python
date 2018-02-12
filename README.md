@@ -1,2 +1,1 @@
-# Automate-Boring-Stuff-Python
-This repository consists of scripts for automating the boring stuff like sending reports through email, renaming the files, moving the files into different folders, dumping the data from excel to MySQL etc...
+# Python-Scripts
