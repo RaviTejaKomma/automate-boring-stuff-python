@@ -6,7 +6,7 @@ import shutil
 #"C:\\Users\\RAVI TEJA\\Downloads\\drive-download-20180211T194222Z-001"
 #"F:\\Careers\\temp"
 
-def sort_rename_move_images(SOURCE_DIR,DESTINATION_DIR):
+def rename_move_images(SOURCE_DIR,DESTINATION_DIR):
     files = os.listdir(SOURCE_DIR)
     for file in files:
         try:
@@ -35,6 +35,6 @@ if __name__ == "__main__":
         DESTINATION_DIR = os.path.dirname(os.getcwd())
     os.chdir(DESTINATION_DIR)
 
-    sort_rename_move_images(SOURCE_DIR,DESTINATION_DIR)
+    rename_move_images(SOURCE_DIR,DESTINATION_DIR)
 
 
