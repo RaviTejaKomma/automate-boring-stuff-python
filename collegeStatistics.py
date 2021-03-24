@@ -1,4 +1,3 @@
-"""  Assignment5 """
 '''
 Install "mysqlclient" package to enable python connectivity to mysql (that you already installed).
 Now do the following tasks from a python click script - not using mysql client or workbench,

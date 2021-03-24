@@ -1,6 +1,5 @@
-"""  Assignment2 """
 '''
-This assignment is about reading and writing excel files through python. Refer to the guidelines in @33.
+This script is about reading and writing excel files through python. Refer to the guidelines in @33.
 This builds on assignment 1 (on using click).
 Here's the high level spec, you have to figure out all the details and get this done:
 
