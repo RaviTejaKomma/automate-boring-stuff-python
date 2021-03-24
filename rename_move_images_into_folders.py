@@ -3,9 +3,6 @@ from PIL import Image
 import os
 import shutil
 
-#"C:\\Users\\RAVI TEJA\\Downloads\\drive-download-20180211T194222Z-001"
-#"F:\\Careers\\temp"
-
 def rename_move_images(SOURCE_DIR,DESTINATION_DIR):
     files = os.listdir(SOURCE_DIR)
     for file in files:
